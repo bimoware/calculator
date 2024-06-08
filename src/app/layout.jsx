@@ -1,11 +1,10 @@
 import { Montserrat } from "next/font/google";
-import "katex/dist/katex.min.css";
 
 const inter = Montserrat({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Ma calculatrice",
-  description: "Calculatrice programmable",
+  title: "Malik's Calculator",
+  description: "Calculator"
 };
 
 export default function RootLayout({ children }) {

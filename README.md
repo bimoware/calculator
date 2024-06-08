@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project that lets you use a calculator.
+This is a [Next.js](https://nextjs.org/) project that lets you use a simple yet fully-functionnal calculator.
 
 ## Install then run with
 
@@ -16,4 +16,4 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-You can start editing the page by modifying `src/app/page.jsx`. The page auto-updates as you edit the file.
+You can start editing the page by modifying [`src/app/page.jsx`](https://github.com/bimoware/calculator/blob/main/src/app/page.jsx). The page auto-updates as you edit the file.
